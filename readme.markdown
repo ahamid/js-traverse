@@ -197,6 +197,13 @@ Call this function before each of the children are traversed.
 
 Call this function after each of the children are traversed.
 
+## this.block()
+
+Prevents traversing descendents of the current node
+
+## this.stop()
+
+Stops traversal entirely
 
 # install
 
